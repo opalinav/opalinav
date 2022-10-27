@@ -3,7 +3,7 @@
 <h2> 💻 Software Development Projects:</h2>
 
 - <b>Machine Learning Projects</b>
-    - [Boston Housing Kaggle Dataset](https://github.com/joshmadakor1/Algorithms-Practice)
+    - [Boston Housing Kaggle Dataset](https://github.com/opalinav/Boston-Housing-Kaggle)
     - [Titanic Kaggle Dataset] 
     - [PyTorch Lightning Visual Learning]
   
