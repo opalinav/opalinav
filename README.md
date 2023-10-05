@@ -5,7 +5,7 @@
 - <b>Past/Current Internship Work</b>
   - [Simulations and Scaling Laws of Bayesian Networks]
   - [COVID-19 Molecular Docking using Autodock Vina]
-  - [Predicting Hospital Length of Stay (Los)]
+  - [Predicting Hospital Length of Stay (Los)](https://github.com/opalinav/LoS-predictive-model)
 
   
 - <b>Fun Projects</b>
