@@ -5,10 +5,8 @@
 - <b>Past/Current Internship Work</b>
   - [Simulations and Scaling Laws of Bayesian Networks]
   - [COVID-19 Molecular Docking using Autodock Vina]
+  - [Predicting Hospital Length of Stay (Los)]
 
-- <b>Machine Learning Projects</b>
-    - [Boston Housing Kaggle Dataset](https://github.com/opalinav/Boston-Housing-Kaggle)
-    - [Titanic Kaggle Dataset] 
   
 - <b>Fun Projects</b>
   - [Tetris Game] 
