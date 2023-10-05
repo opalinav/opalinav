@@ -5,7 +5,7 @@
 - <b>Machine Learning Projects</b>
     - [Boston Housing Kaggle Dataset](https://github.com/opalinav/Boston-Housing-Kaggle)
     - [Titanic Kaggle Dataset] 
-    - [PyTorch Lightning Visual Learning]
+      
   
 - <b>Past/Current Internship Work</b>
   - [Simulations and Scaling Laws of Bayesian Networks]
