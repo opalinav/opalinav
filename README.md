@@ -3,7 +3,7 @@
 <h2> 💻 Software Development Projects:</h2>
 
 - <b>Past/Current Internship Work</b>
-  - 2023: [Simulations and Scaling Laws of Bayesian Networks]
+  - 2023: [Simulations and Scaling Laws of Bayesian Networks](https://github.com/opalinav/Dynamic-Bayesian-Networks)
   - 2022: [Predicting Hospital Length of Stay (Los)](https://github.com/opalinav/LoS-predictive-model)
   - 2021: [COVID-19 Molecular Docking using Autodock Vina](https://github.com/opalinav/COVID-19_Molecular-Docking)
  
